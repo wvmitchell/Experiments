@@ -12,6 +12,6 @@ include FileUtils
 
 # U G O
 # rwxrwxrwx
-binary_literal = 0b111001000
+binary_literal = 0b111111111
 
 chmod binary_literal, 'binary_literals.rb'
